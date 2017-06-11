@@ -103,7 +103,7 @@ int main()
 
         // OPENS THE TEXT FILE TO WRITE PASSWORDS TO
         ofstream myfile;
-        myfile.open ("C:\\Users\\stratos\\Desktop\\passwords.txt");
+        myfile.open ("your path\\passwords.txt");
         // -----------------------------------------
 
         // ---- start timer ----
